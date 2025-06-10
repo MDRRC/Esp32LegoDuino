@@ -7,7 +7,7 @@ Christmass 2020 I bought a [Lego Volvo Dump Truck](https://www.lego.com/nl-nl/pr
 Played a little with the Lego App and the Volvo, but did not like the app. So the dump truck gathered dust for some years. 
 Some time ago I stumbled on [LegoIno](https://github.com/corneliusmunz/legoino), had some ESP32 modules around here so gave it a try.
 
-![] (https://github.com/MDRRC/Esp32LegoDuino/blob/main/Doc/ESP32.PNG)
+![](https://github.com/MDRRC/Esp32LegoDuino/blob/main/Doc/ESP32.PNG)
 
 So I was able to control the Lego Dump truck with som buttons on a test board.   
 
