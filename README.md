@@ -1,4 +1,4 @@
-# Esp32LegoDuino
+# Esp32LegoIno
 
 Christmass 2020 I bought a [Lego Volvo Dump Truck](https://www.lego.com/nl-nl/product/6x6-volvo-articulated-hauler-42114?age-gate=grown_up) just to get through the Corona Christmass...
 
